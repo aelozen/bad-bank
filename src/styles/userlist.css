@@ -1,0 +1,9 @@
+.user-list {
+    font-family: 'Arial', Courier, monospace;
+    color: darkred;
+}
+
+.card-header {
+    background-color: rgba(205, 92, 92, 0.435);
+}
+

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "name_1",
+      "email": "email_1",
+      "password": "password_1",
+      "id": 1
+    },
+    {
+      "name": "name",
+      "email": "name@email.com",
+      "password": "namepassword",
+      "id": 2
+    },
+    {
+      "name": "second",
+      "email": "second@email.com",
+      "password": "Secondpass",
+      "id": 3
+    },
+    {
+      "name": "alldata",
+      "email": "alldatatest@email.com",
+      "password": "alldatapassword",
+      "id": 4
+    }
+  ]
+}
